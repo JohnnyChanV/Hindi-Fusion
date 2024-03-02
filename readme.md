@@ -5,5 +5,7 @@ Pretrained language models excel in various natural language processing tasks bu
 
 Paper:
 Enhancing Hindi Feature Representation Through Fusion of Dual-Script Word Embeddings
-Lianxi Wang, Zhuowei Chen*, Yujia Tian*
+
+Lianxi Wang, Zhuowei Chen*, Yujia Tian
+
 COLING 2024
